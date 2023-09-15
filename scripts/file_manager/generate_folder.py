@@ -10,4 +10,4 @@ directories = [
 
 # Loop through each directory and create a folder named 'origin'
 for directory in directories:
-    os.makedirs(os.path.join(data_dir, directory, "origin"), exist_ok=True)
+    os.makedirs(os.path.join(data_dir, directory, "raw"), exist_ok=True)
