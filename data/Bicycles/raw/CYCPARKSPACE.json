@@ -1,0 +1,5880 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "CYCPARKSPACE",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:2326"
+		}
+	},
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839235.7265999997, 816929.8359999992 ]
+			},
+			"properties" : {
+				"OBJECTID" : 1,
+				"PARKING_SPACE" : 11,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839235.9249, 816920.3277000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 2,
+				"PARKING_SPACE" : 6,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834050.5916999998, 820739.4525000006 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3,
+				"PARKING_SPACE" : 28,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835480.3953999998, 818804.4144000001 ]
+			},
+			"properties" : {
+				"OBJECTID" : 4,
+				"PARKING_SPACE" : 13,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835361.9859999996, 820556.8015000001 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5,
+				"PARKING_SPACE" : 6,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835350.7479999997, 820548.9560000002 ]
+			},
+			"properties" : {
+				"OBJECTID" : 6,
+				"PARKING_SPACE" : 6,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835312.5839999998, 820540.3258999996 ]
+			},
+			"properties" : {
+				"OBJECTID" : 7,
+				"PARKING_SPACE" : 6,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835260.9375, 820531.2180000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 8,
+				"PARKING_SPACE" : 9,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835245.1754999999, 820528.0545000006 ]
+			},
+			"properties" : {
+				"OBJECTID" : 9,
+				"PARKING_SPACE" : 6,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836015.2309999997, 817946.1097999997 ]
+			},
+			"properties" : {
+				"OBJECTID" : 10,
+				"PARKING_SPACE" : 5,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829500.4892999995, 825405.6327999998 ]
+			},
+			"properties" : {
+				"OBJECTID" : 11,
+				"PARKING_SPACE" : 70,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829889.0164999999, 826217.3008999992 ]
+			},
+			"properties" : {
+				"OBJECTID" : 12,
+				"PARKING_SPACE" : 10,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834620.0886000004, 842809.5493999999 ]
+			},
+			"properties" : {
+				"OBJECTID" : 13,
+				"PARKING_SPACE" : 12,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841105.0089999996, 845070.9498999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 14,
+				"PARKING_SPACE" : 232,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 811777.0926000001, 816740.8695999999 ]
+			},
+			"properties" : {
+				"OBJECTID" : 15,
+				"PARKING_SPACE" : 56,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 813084.0877999999, 817303.5436000004 ]
+			},
+			"properties" : {
+				"OBJECTID" : 16,
+				"PARKING_SPACE" : 60,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 811999.7218000004, 816837.1994000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 17,
+				"PARKING_SPACE" : 596,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 811961.1226000004, 816576.3380999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 18,
+				"PARKING_SPACE" : 456,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 811848.0504000001, 817162.2067000009 ]
+			},
+			"properties" : {
+				"OBJECTID" : 19,
+				"PARKING_SPACE" : 36,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 811574.9918, 815700.0364999995 ]
+			},
+			"properties" : {
+				"OBJECTID" : 20,
+				"PARKING_SPACE" : 392,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 811270.8728, 815508.0447000004 ]
+			},
+			"properties" : {
+				"OBJECTID" : 21,
+				"PARKING_SPACE" : 98,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 811059.8366, 815444.3630999997 ]
+			},
+			"properties" : {
+				"OBJECTID" : 22,
+				"PARKING_SPACE" : 60,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820970.2503000004, 807890.6192000005 ]
+			},
+			"properties" : {
+				"OBJECTID" : 23,
+				"PARKING_SPACE" : 266,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820906.9804999996, 807602.5602000002 ]
+			},
+			"properties" : {
+				"OBJECTID" : 24,
+				"PARKING_SPACE" : 316,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820712.0037000002, 807436.6676000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 25,
+				"PARKING_SPACE" : 160,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820377.6469999999, 807332.4301999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 26,
+				"PARKING_SPACE" : 100,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844790.9891999997, 820838.9296000004 ]
+			},
+			"properties" : {
+				"OBJECTID" : 27,
+				"PARKING_SPACE" : 170,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844550.4781999998, 820602.9014999997 ]
+			},
+			"properties" : {
+				"OBJECTID" : 28,
+				"PARKING_SPACE" : 118,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844825.3728, 820422.1261 ]
+			},
+			"properties" : {
+				"OBJECTID" : 29,
+				"PARKING_SPACE" : 44,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844883.9605, 820496.1295999996 ]
+			},
+			"properties" : {
+				"OBJECTID" : 30,
+				"PARKING_SPACE" : 24,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844632.5837000003, 820321.6469000001 ]
+			},
+			"properties" : {
+				"OBJECTID" : 31,
+				"PARKING_SPACE" : 158,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 843852.1935999999, 820969.2017999999 ]
+			},
+			"properties" : {
+				"OBJECTID" : 32,
+				"PARKING_SPACE" : 96,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844129.1343, 820512.8122000005 ]
+			},
+			"properties" : {
+				"OBJECTID" : 33,
+				"PARKING_SPACE" : 32,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844787.4325999999, 820083.3403999992 ]
+			},
+			"properties" : {
+				"OBJECTID" : 34,
+				"PARKING_SPACE" : 54,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844534.9818000002, 820179.6785000004 ]
+			},
+			"properties" : {
+				"OBJECTID" : 35,
+				"PARKING_SPACE" : 30,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845175.5658, 819789.7521000002 ]
+			},
+			"properties" : {
+				"OBJECTID" : 36,
+				"PARKING_SPACE" : 168,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845411.4336999999, 819905.2666999996 ]
+			},
+			"properties" : {
+				"OBJECTID" : 37,
+				"PARKING_SPACE" : 76,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845376.7594999997, 819910.7364000008 ]
+			},
+			"properties" : {
+				"OBJECTID" : 38,
+				"PARKING_SPACE" : 64,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845523.6996999998, 820025.4096000008 ]
+			},
+			"properties" : {
+				"OBJECTID" : 39,
+				"PARKING_SPACE" : 88,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845748.5367999999, 819957.4299999997 ]
+			},
+			"properties" : {
+				"OBJECTID" : 40,
+				"PARKING_SPACE" : 56,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845688.7964000003, 819847.1630000006 ]
+			},
+			"properties" : {
+				"OBJECTID" : 41,
+				"PARKING_SPACE" : 154,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845697.3361, 819510.8699999992 ]
+			},
+			"properties" : {
+				"OBJECTID" : 42,
+				"PARKING_SPACE" : 16,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845441.2741, 819547.9176000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 43,
+				"PARKING_SPACE" : 104,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845365.1737000002, 819454.0454999991 ]
+			},
+			"properties" : {
+				"OBJECTID" : 44,
+				"PARKING_SPACE" : 32,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845088.9934999999, 819531.0715999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 45,
+				"PARKING_SPACE" : 120,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845276.8634000001, 818759.1920999996 ]
+			},
+			"properties" : {
+				"OBJECTID" : 46,
+				"PARKING_SPACE" : 28,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845256.4711999996, 818632.7164999992 ]
+			},
+			"properties" : {
+				"OBJECTID" : 47,
+				"PARKING_SPACE" : 112,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844945.7523999996, 818681.4978999998 ]
+			},
+			"properties" : {
+				"OBJECTID" : 48,
+				"PARKING_SPACE" : 426,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844613.2790999999, 819000.7733999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 49,
+				"PARKING_SPACE" : 512,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844382.0949999997, 818878.7541000005 ]
+			},
+			"properties" : {
+				"OBJECTID" : 50,
+				"PARKING_SPACE" : 16,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844386.0604999997, 818721.1741000004 ]
+			},
+			"properties" : {
+				"OBJECTID" : 51,
+				"PARKING_SPACE" : 96,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844036.5274, 818616.3737000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 52,
+				"PARKING_SPACE" : 90,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844174.6452000001, 818459.7804000005 ]
+			},
+			"properties" : {
+				"OBJECTID" : 53,
+				"PARKING_SPACE" : 240,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845546.2319999998, 817498.5759999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 54,
+				"PARKING_SPACE" : 140,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845313.6129999999, 819344.9003999997 ]
+			},
+			"properties" : {
+				"OBJECTID" : 55,
+				"PARKING_SPACE" : 78,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 831048.2501999997, 840291.1989999991 ]
+			},
+			"properties" : {
+				"OBJECTID" : 56,
+				"PARKING_SPACE" : 104,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 831248.5173000004, 840186.3721999992 ]
+			},
+			"properties" : {
+				"OBJECTID" : 57,
+				"PARKING_SPACE" : 533,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 831315.5487000002, 840223.9355999995 ]
+			},
+			"properties" : {
+				"OBJECTID" : 58,
+				"PARKING_SPACE" : 50,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 831317.4363000002, 840278.4572999999 ]
+			},
+			"properties" : {
+				"OBJECTID" : 59,
+				"PARKING_SPACE" : 26,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 831141.3306, 840250.3238999993 ]
+			},
+			"properties" : {
+				"OBJECTID" : 60,
+				"PARKING_SPACE" : 372,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 832862.1372999996, 839851.3706999999 ]
+			},
+			"properties" : {
+				"OBJECTID" : 61,
+				"PARKING_SPACE" : 227,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833033.1884000003, 840042.7587000001 ]
+			},
+			"properties" : {
+				"OBJECTID" : 62,
+				"PARKING_SPACE" : 33,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 832820.6498999996, 840003.0732000005 ]
+			},
+			"properties" : {
+				"OBJECTID" : 63,
+				"PARKING_SPACE" : 35,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 831722.3991999999, 839803.9637000002 ]
+			},
+			"properties" : {
+				"OBJECTID" : 64,
+				"PARKING_SPACE" : 98,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 831259.7779999999, 839747.9813000001 ]
+			},
+			"properties" : {
+				"OBJECTID" : 65,
+				"PARKING_SPACE" : 156,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 831325.9594999999, 840183.8030999992 ]
+			},
+			"properties" : {
+				"OBJECTID" : 66,
+				"PARKING_SPACE" : 15,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 830791.6288000001, 839576.1315000001 ]
+			},
+			"properties" : {
+				"OBJECTID" : 67,
+				"PARKING_SPACE" : 54,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 830909.858, 839288.9798000008 ]
+			},
+			"properties" : {
+				"OBJECTID" : 68,
+				"PARKING_SPACE" : 204,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 832058.5153000001, 839252.0854000002 ]
+			},
+			"properties" : {
+				"OBJECTID" : 69,
+				"PARKING_SPACE" : 94,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 832217.4623999996, 839157.3026999999 ]
+			},
+			"properties" : {
+				"OBJECTID" : 70,
+				"PARKING_SPACE" : 276,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 832327.6829000004, 839081.2937000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 71,
+				"PARKING_SPACE" : 227,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 832278.4404999996, 839246.0952000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 72,
+				"PARKING_SPACE" : 432,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 832398.6503999997, 838182.7006999999 ]
+			},
+			"properties" : {
+				"OBJECTID" : 73,
+				"PARKING_SPACE" : 22,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833130.4011000004, 839346.4406000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 74,
+				"PARKING_SPACE" : 123,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 832641.0943, 838521.9635000005 ]
+			},
+			"properties" : {
+				"OBJECTID" : 75,
+				"PARKING_SPACE" : 148,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 831263.7520000003, 839487.2722999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 76,
+				"PARKING_SPACE" : 94,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 832310.2326999996, 839303.4701000005 ]
+			},
+			"properties" : {
+				"OBJECTID" : 77,
+				"PARKING_SPACE" : 76,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 831200.5750000002, 840889.5305000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 78,
+				"PARKING_SPACE" : 21,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 832902.5522999996, 840018.9998000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 79,
+				"PARKING_SPACE" : 20,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834837.4260999998, 834974.5774000008 ]
+			},
+			"properties" : {
+				"OBJECTID" : 80,
+				"PARKING_SPACE" : 228,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834667.5213000001, 834830.6655999999 ]
+			},
+			"properties" : {
+				"OBJECTID" : 81,
+				"PARKING_SPACE" : 194,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835636.3004999999, 833862.7046000008 ]
+			},
+			"properties" : {
+				"OBJECTID" : 82,
+				"PARKING_SPACE" : 30,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834945.1129000001, 834535.3903000001 ]
+			},
+			"properties" : {
+				"OBJECTID" : 83,
+				"PARKING_SPACE" : 216,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834964.4851000002, 834486.1256000008 ]
+			},
+			"properties" : {
+				"OBJECTID" : 84,
+				"PARKING_SPACE" : 126,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835308.6725000003, 834686.7443000004 ]
+			},
+			"properties" : {
+				"OBJECTID" : 85,
+				"PARKING_SPACE" : 144,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836335.7640000004, 834640.1831999999 ]
+			},
+			"properties" : {
+				"OBJECTID" : 86,
+				"PARKING_SPACE" : 24,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835592.1135, 833865.0811999999 ]
+			},
+			"properties" : {
+				"OBJECTID" : 87,
+				"PARKING_SPACE" : 14,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835546.4501, 833774.2610999998 ]
+			},
+			"properties" : {
+				"OBJECTID" : 88,
+				"PARKING_SPACE" : 50,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835718.6442999998, 833878.6923999991 ]
+			},
+			"properties" : {
+				"OBJECTID" : 89,
+				"PARKING_SPACE" : 225,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835742.3781000003, 834185.6305999998 ]
+			},
+			"properties" : {
+				"OBJECTID" : 90,
+				"PARKING_SPACE" : 68,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835858.2340000002, 834350.0384999998 ]
+			},
+			"properties" : {
+				"OBJECTID" : 91,
+				"PARKING_SPACE" : 82,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836363.7150999997, 834459.3849999998 ]
+			},
+			"properties" : {
+				"OBJECTID" : 92,
+				"PARKING_SPACE" : 30,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836107.5010000002, 835017.8515000008 ]
+			},
+			"properties" : {
+				"OBJECTID" : 93,
+				"PARKING_SPACE" : 62,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835745.0831000004, 834671.7006000001 ]
+			},
+			"properties" : {
+				"OBJECTID" : 94,
+				"PARKING_SPACE" : 412,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 842048.4334000004, 836929.5354999993 ]
+			},
+			"properties" : {
+				"OBJECTID" : 95,
+				"PARKING_SPACE" : 112,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839334.4760999996, 835942.9342999998 ]
+			},
+			"properties" : {
+				"OBJECTID" : 96,
+				"PARKING_SPACE" : 360,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836638.2489999998, 834485.0099999998 ]
+			},
+			"properties" : {
+				"OBJECTID" : 97,
+				"PARKING_SPACE" : 72,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836934.0070000002, 834815.0130000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 98,
+				"PARKING_SPACE" : 24,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837015.7539999997, 834815.0130000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 99,
+				"PARKING_SPACE" : 24,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837097.8849999998, 834814.7400000002 ]
+			},
+			"properties" : {
+				"OBJECTID" : 100,
+				"PARKING_SPACE" : 24,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837368.7529999996, 834815.7919999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 101,
+				"PARKING_SPACE" : 12,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837637.5494999997, 834748.5732000005 ]
+			},
+			"properties" : {
+				"OBJECTID" : 102,
+				"PARKING_SPACE" : 12,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837731.7363, 834710.0216000006 ]
+			},
+			"properties" : {
+				"OBJECTID" : 103,
+				"PARKING_SPACE" : 12,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839063.8949999996, 832661.1799999997 ]
+			},
+			"properties" : {
+				"OBJECTID" : 104,
+				"PARKING_SPACE" : 12,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839440.8909999998, 832373.2870000005 ]
+			},
+			"properties" : {
+				"OBJECTID" : 105,
+				"PARKING_SPACE" : 12,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838963.0225999998, 832390.9034000002 ]
+			},
+			"properties" : {
+				"OBJECTID" : 106,
+				"PARKING_SPACE" : 62,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838937.9424999999, 831948.9685999993 ]
+			},
+			"properties" : {
+				"OBJECTID" : 107,
+				"PARKING_SPACE" : 38,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821879.4160000002, 816279.3809999991 ]
+			},
+			"properties" : {
+				"OBJECTID" : 108,
+				"PARKING_SPACE" : 78,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818205.7254999997, 814086.5681999996 ]
+			},
+			"properties" : {
+				"OBJECTID" : 109,
+				"PARKING_SPACE" : 944,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818167.1941999998, 814004.4622000009 ]
+			},
+			"properties" : {
+				"OBJECTID" : 110,
+				"PARKING_SPACE" : 140,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818089.6511000004, 814003.3991999999 ]
+			},
+			"properties" : {
+				"OBJECTID" : 111,
+				"PARKING_SPACE" : 126,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818091.2114000004, 813948.8838 ]
+			},
+			"properties" : {
+				"OBJECTID" : 112,
+				"PARKING_SPACE" : 134,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818200.8578000003, 813986.6218999997 ]
+			},
+			"properties" : {
+				"OBJECTID" : 113,
+				"PARKING_SPACE" : 188,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 843168.6057000002, 832278.6807000004 ]
+			},
+			"properties" : {
+				"OBJECTID" : 114,
+				"PARKING_SPACE" : 237,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 842728.7591000004, 831913.7860000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 115,
+				"PARKING_SPACE" : 22,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841853.0389999999, 831647.3564999998 ]
+			},
+			"properties" : {
+				"OBJECTID" : 116,
+				"PARKING_SPACE" : 50,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841841.2460000003, 831460.9004999995 ]
+			},
+			"properties" : {
+				"OBJECTID" : 117,
+				"PARKING_SPACE" : 32,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841684.2494999999, 831137.7369999997 ]
+			},
+			"properties" : {
+				"OBJECTID" : 118,
+				"PARKING_SPACE" : 38,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841960.5745999999, 831216.9397 ]
+			},
+			"properties" : {
+				"OBJECTID" : 119,
+				"PARKING_SPACE" : 54,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841735.7895, 830957.9408999998 ]
+			},
+			"properties" : {
+				"OBJECTID" : 120,
+				"PARKING_SPACE" : 66,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841244.7863999996, 830856.3561000004 ]
+			},
+			"properties" : {
+				"OBJECTID" : 121,
+				"PARKING_SPACE" : 53,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841321.2751000002, 830631.5 ]
+			},
+			"properties" : {
+				"OBJECTID" : 122,
+				"PARKING_SPACE" : 66,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840823.7248999998, 829717.9295000006 ]
+			},
+			"properties" : {
+				"OBJECTID" : 123,
+				"PARKING_SPACE" : 64,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840724.4554000003, 829891.2227999996 ]
+			},
+			"properties" : {
+				"OBJECTID" : 124,
+				"PARKING_SPACE" : 26,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841074.7331999997, 829849.2572000008 ]
+			},
+			"properties" : {
+				"OBJECTID" : 125,
+				"PARKING_SPACE" : 52,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838404.2937000003, 828344.3586999997 ]
+			},
+			"properties" : {
+				"OBJECTID" : 126,
+				"PARKING_SPACE" : 46,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838196.2105, 828578.6797000002 ]
+			},
+			"properties" : {
+				"OBJECTID" : 127,
+				"PARKING_SPACE" : 52,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838615.9725000001, 828083.9207000006 ]
+			},
+			"properties" : {
+				"OBJECTID" : 128,
+				"PARKING_SPACE" : 8,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838532.9704999998, 827822.3837000001 ]
+			},
+			"properties" : {
+				"OBJECTID" : 129,
+				"PARKING_SPACE" : 122,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837957.8684999999, 827695.5430999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 130,
+				"PARKING_SPACE" : 12,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838839.8545000004, 827754.2990000006 ]
+			},
+			"properties" : {
+				"OBJECTID" : 131,
+				"PARKING_SPACE" : 10,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838739.8898999998, 827646.7727000006 ]
+			},
+			"properties" : {
+				"OBJECTID" : 132,
+				"PARKING_SPACE" : 10,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838740.6438999996, 827558.2686999999 ]
+			},
+			"properties" : {
+				"OBJECTID" : 133,
+				"PARKING_SPACE" : 12,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838521.9719000002, 827412.8133000005 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134,
+				"PARKING_SPACE" : 10,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838365.8022999996, 827227.1395999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 135,
+				"PARKING_SPACE" : 10,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838177.3859000001, 827299.7507000007 ]
+			},
+			"properties" : {
+				"OBJECTID" : 136,
+				"PARKING_SPACE" : 10,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838226.3572000004, 827354.7197999991 ]
+			},
+			"properties" : {
+				"OBJECTID" : 137,
+				"PARKING_SPACE" : 10,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839125.0795, 827672.3792000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 138,
+				"PARKING_SPACE" : 25,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838929.7933, 826983.9061999992 ]
+			},
+			"properties" : {
+				"OBJECTID" : 139,
+				"PARKING_SPACE" : 187,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839420.7107999995, 827516.6029000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 140,
+				"PARKING_SPACE" : 85,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839425.7207000004, 828042.5319999997 ]
+			},
+			"properties" : {
+				"OBJECTID" : 141,
+				"PARKING_SPACE" : 12,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839219.4206999997, 828137.9202999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 142,
+				"PARKING_SPACE" : 44,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837627.4955000002, 827233.9114999995 ]
+			},
+			"properties" : {
+				"OBJECTID" : 143,
+				"PARKING_SPACE" : 214,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838014.5488, 827115.4931000005 ]
+			},
+			"properties" : {
+				"OBJECTID" : 144,
+				"PARKING_SPACE" : 12,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837980.3123000003, 827076.7106999997 ]
+			},
+			"properties" : {
+				"OBJECTID" : 145,
+				"PARKING_SPACE" : 8,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838118.0177999996, 826952.7265000008 ]
+			},
+			"properties" : {
+				"OBJECTID" : 146,
+				"PARKING_SPACE" : 12,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837792.9203000003, 826872.4991999995 ]
+			},
+			"properties" : {
+				"OBJECTID" : 147,
+				"PARKING_SPACE" : 20,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837711.1895000003, 826778.9650999997 ]
+			},
+			"properties" : {
+				"OBJECTID" : 148,
+				"PARKING_SPACE" : 40,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837651.0188999996, 827211.9242000002 ]
+			},
+			"properties" : {
+				"OBJECTID" : 149,
+				"PARKING_SPACE" : 174,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837359.2060000002, 826941.9107000008 ]
+			},
+			"properties" : {
+				"OBJECTID" : 150,
+				"PARKING_SPACE" : 146,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837887.7648999998, 826697.6388000008 ]
+			},
+			"properties" : {
+				"OBJECTID" : 151,
+				"PARKING_SPACE" : 10,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837508.4357000003, 826569.9450000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 152,
+				"PARKING_SPACE" : 20,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837327.7592000002, 826457.9287 ]
+			},
+			"properties" : {
+				"OBJECTID" : 153,
+				"PARKING_SPACE" : 20,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837325.2703999998, 826647.3890000004 ]
+			},
+			"properties" : {
+				"OBJECTID" : 154,
+				"PARKING_SPACE" : 20,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837295.7196000004, 826638.4177000001 ]
+			},
+			"properties" : {
+				"OBJECTID" : 155,
+				"PARKING_SPACE" : 34,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836883.0290000001, 826468.2201000005 ]
+			},
+			"properties" : {
+				"OBJECTID" : 156,
+				"PARKING_SPACE" : 30,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836779.0559999999, 826436.5299999993 ]
+			},
+			"properties" : {
+				"OBJECTID" : 157,
+				"PARKING_SPACE" : 60,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836681.3682000004, 826208.6124000009 ]
+			},
+			"properties" : {
+				"OBJECTID" : 158,
+				"PARKING_SPACE" : 24,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836476.6130999997, 825870.0421999991 ]
+			},
+			"properties" : {
+				"OBJECTID" : 159,
+				"PARKING_SPACE" : 188,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836507.3438999997, 826069.5877999999 ]
+			},
+			"properties" : {
+				"OBJECTID" : 160,
+				"PARKING_SPACE" : 52,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836575.6457000002, 826124.1302000005 ]
+			},
+			"properties" : {
+				"OBJECTID" : 161,
+				"PARKING_SPACE" : 28,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 843428.4194, 832285.4438000005 ]
+			},
+			"properties" : {
+				"OBJECTID" : 162,
+				"PARKING_SPACE" : 33,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836363.9823000003, 825783.1512000002 ]
+			},
+			"properties" : {
+				"OBJECTID" : 163,
+				"PARKING_SPACE" : 92,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840947.7766000004, 830590.1313000005 ]
+			},
+			"properties" : {
+				"OBJECTID" : 164,
+				"PARKING_SPACE" : 52,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839871.8658999996, 826838.6459999997 ]
+			},
+			"properties" : {
+				"OBJECTID" : 165,
+				"PARKING_SPACE" : 40,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841958.9538000003, 831665.9400999993 ]
+			},
+			"properties" : {
+				"OBJECTID" : 166,
+				"PARKING_SPACE" : 50,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841380.4392999997, 830404.5379000008 ]
+			},
+			"properties" : {
+				"OBJECTID" : 167,
+				"PARKING_SPACE" : 17,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 842998.4526000004, 832030.1706000008 ]
+			},
+			"properties" : {
+				"OBJECTID" : 168,
+				"PARKING_SPACE" : 88,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840053.6741000004, 830689.5768999998 ]
+			},
+			"properties" : {
+				"OBJECTID" : 169,
+				"PARKING_SPACE" : 60,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840110.7439999999, 830737.8770000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 170,
+				"PARKING_SPACE" : 50,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840097.3435000004, 830833.8613000009 ]
+			},
+			"properties" : {
+				"OBJECTID" : 171,
+				"PARKING_SPACE" : 76,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838492.6153999995, 828474.2150999997 ]
+			},
+			"properties" : {
+				"OBJECTID" : 172,
+				"PARKING_SPACE" : 54,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839529.4260999998, 827527.9904999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 173,
+				"PARKING_SPACE" : 58,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836899.5800000001, 825676.9109000005 ]
+			},
+			"properties" : {
+				"OBJECTID" : 174,
+				"PARKING_SPACE" : 20,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836730.4707000004, 825474.2982999999 ]
+			},
+			"properties" : {
+				"OBJECTID" : 175,
+				"PARKING_SPACE" : 18,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836332.1059999997, 825947.3084999993 ]
+			},
+			"properties" : {
+				"OBJECTID" : 176,
+				"PARKING_SPACE" : 50,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836345.9064999996, 826397.1221999992 ]
+			},
+			"properties" : {
+				"OBJECTID" : 177,
+				"PARKING_SPACE" : 72,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835791.4115000004, 824876.5713 ]
+			},
+			"properties" : {
+				"OBJECTID" : 178,
+				"PARKING_SPACE" : 30,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838692.9135999996, 828924.7432000004 ]
+			},
+			"properties" : {
+				"OBJECTID" : 179,
+				"PARKING_SPACE" : 40,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839740.3969000001, 830547.4154000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 180,
+				"PARKING_SPACE" : 342,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840106.5663999999, 830522.4888000004 ]
+			},
+			"properties" : {
+				"OBJECTID" : 181,
+				"PARKING_SPACE" : 24,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840675.6301999995, 829816.4343999997 ]
+			},
+			"properties" : {
+				"OBJECTID" : 182,
+				"PARKING_SPACE" : 26,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841840.9752000002, 831667.2078000009 ]
+			},
+			"properties" : {
+				"OBJECTID" : 183,
+				"PARKING_SPACE" : 92,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845555.7379999999, 818519.3340000007 ]
+			},
+			"properties" : {
+				"OBJECTID" : 184,
+				"PARKING_SPACE" : 300,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845370.3343000002, 818421.7559999991 ]
+			},
+			"properties" : {
+				"OBJECTID" : 185,
+				"PARKING_SPACE" : 150,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844929.2759999996, 818169.9484999999 ]
+			},
+			"properties" : {
+				"OBJECTID" : 186,
+				"PARKING_SPACE" : 400,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844742.0784999998, 818293.2687999997 ]
+			},
+			"properties" : {
+				"OBJECTID" : 187,
+				"PARKING_SPACE" : 300,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844489.7803999996, 818232.4794999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 188,
+				"PARKING_SPACE" : 140,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844139.5433, 818333.2753999997 ]
+			},
+			"properties" : {
+				"OBJECTID" : 189,
+				"PARKING_SPACE" : 150,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835494.0308999997, 826326.3987000007 ]
+			},
+			"properties" : {
+				"OBJECTID" : 190,
+				"PARKING_SPACE" : 20,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836342.3668, 826165.2565000001 ]
+			},
+			"properties" : {
+				"OBJECTID" : 191,
+				"PARKING_SPACE" : 44,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836359.9220000003, 825913.8880000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 192,
+				"PARKING_SPACE" : 62,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836512.9205, 825858.1634 ]
+			},
+			"properties" : {
+				"OBJECTID" : 193,
+				"PARKING_SPACE" : 260,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837170.0306000002, 826174.9449000005 ]
+			},
+			"properties" : {
+				"OBJECTID" : 194,
+				"PARKING_SPACE" : 132,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837078.8301999997, 826183.8259999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 195,
+				"PARKING_SPACE" : 100,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839426.8370000003, 826804.2897999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 196,
+				"PARKING_SPACE" : 24,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839954.2916999999, 831989.1524 ]
+			},
+			"properties" : {
+				"OBJECTID" : 197,
+				"PARKING_SPACE" : 24,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839835.0546000004, 832080.3189000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 198,
+				"PARKING_SPACE" : 58,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840088.3832, 831861.4390999991 ]
+			},
+			"properties" : {
+				"OBJECTID" : 199,
+				"PARKING_SPACE" : 12,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840136.5597999999, 831786.3372000009 ]
+			},
+			"properties" : {
+				"OBJECTID" : 200,
+				"PARKING_SPACE" : 40,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840188.3497000001, 831586.3332000002 ]
+			},
+			"properties" : {
+				"OBJECTID" : 201,
+				"PARKING_SPACE" : 40,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839690.7254999997, 830393.5386999995 ]
+			},
+			"properties" : {
+				"OBJECTID" : 202,
+				"PARKING_SPACE" : 60,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840063.6926999995, 830327.6739000008 ]
+			},
+			"properties" : {
+				"OBJECTID" : 203,
+				"PARKING_SPACE" : 24,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840069.3132999996, 830355.3852999993 ]
+			},
+			"properties" : {
+				"OBJECTID" : 204,
+				"PARKING_SPACE" : 24,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841411.5864000004, 831084.6454000007 ]
+			},
+			"properties" : {
+				"OBJECTID" : 205,
+				"PARKING_SPACE" : 160,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841976.7292999998, 831700.7090000007 ]
+			},
+			"properties" : {
+				"OBJECTID" : 206,
+				"PARKING_SPACE" : 92,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841968.4371999996, 831316.2239999995 ]
+			},
+			"properties" : {
+				"OBJECTID" : 207,
+				"PARKING_SPACE" : 40,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 842771.6380000003, 831939.6374999993 ]
+			},
+			"properties" : {
+				"OBJECTID" : 208,
+				"PARKING_SPACE" : 48,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 842994.5427000001, 832665.0237000007 ]
+			},
+			"properties" : {
+				"OBJECTID" : 209,
+				"PARKING_SPACE" : 36,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836529.3106000004, 835547.6018000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 210,
+				"PARKING_SPACE" : 38,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845217.1678999998, 818963.2980000004 ]
+			},
+			"properties" : {
+				"OBJECTID" : 211,
+				"PARKING_SPACE" : 112,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838842.0930000003, 832507.7139999997 ]
+			},
+			"properties" : {
+				"OBJECTID" : 212,
+				"PARKING_SPACE" : 32,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 846186.8684, 827221.9440000001 ]
+			},
+			"properties" : {
+				"OBJECTID" : 213,
+				"PARKING_SPACE" : 40,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845936.25, 827153.1899999995 ]
+			},
+			"properties" : {
+				"OBJECTID" : 214,
+				"PARKING_SPACE" : 10,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838923.1660000002, 832765.0419999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 215,
+				"PARKING_SPACE" : 32,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839114.29, 832622.2475000005 ]
+			},
+			"properties" : {
+				"OBJECTID" : 216,
+				"PARKING_SPACE" : 12,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839356.0460000001, 832444.4059999995 ]
+			},
+			"properties" : {
+				"OBJECTID" : 217,
+				"PARKING_SPACE" : 64,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839542.2230000002, 832295.4230000004 ]
+			},
+			"properties" : {
+				"OBJECTID" : 218,
+				"PARKING_SPACE" : 32,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839295.4905000003, 832484.2329999991 ]
+			},
+			"properties" : {
+				"OBJECTID" : 219,
+				"PARKING_SPACE" : 12,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829340.0072999997, 809808.3902000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 220,
+				"PARKING_SPACE" : 300,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817667.9299999997, 814205.4947999995 ]
+			},
+			"properties" : {
+				"OBJECTID" : 221,
+				"PARKING_SPACE" : 10,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844354.7934999997, 818568.8853999991 ]
+			},
+			"properties" : {
+				"OBJECTID" : 222,
+				"PARKING_SPACE" : 60,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844846.3244000003, 819418.7169000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 223,
+				"PARKING_SPACE" : 52,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845188.9263000004, 819359.4689000007 ]
+			},
+			"properties" : {
+				"OBJECTID" : 224,
+				"PARKING_SPACE" : 76,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844970.0603999998, 819768.0727999993 ]
+			},
+			"properties" : {
+				"OBJECTID" : 225,
+				"PARKING_SPACE" : 40,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844218.2762000002, 820349.2643999998 ]
+			},
+			"properties" : {
+				"OBJECTID" : 226,
+				"PARKING_SPACE" : 18,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817483.3293000003, 814197.5614 ]
+			},
+			"properties" : {
+				"OBJECTID" : 227,
+				"PARKING_SPACE" : 24,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833077.8915999997, 840103.0125999991 ]
+			},
+			"properties" : {
+				"OBJECTID" : 228,
+				"PARKING_SPACE" : 120,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 831055.7824999997, 840471.0046999995 ]
+			},
+			"properties" : {
+				"OBJECTID" : 229,
+				"PARKING_SPACE" : 420,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844375.9945, 832408.3062999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 230,
+				"PARKING_SPACE" : 140,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840809.0288000004, 829704.6790999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 231,
+				"PARKING_SPACE" : 20,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 840563.9155000001, 829655.9130000006 ]
+			},
+			"properties" : {
+				"OBJECTID" : 232,
+				"PARKING_SPACE" : 105,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838885.1936999997, 832386.3676999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 233,
+				"PARKING_SPACE" : 18,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836920.6744999997, 825655.1834999993 ]
+			},
+			"properties" : {
+				"OBJECTID" : 234,
+				"PARKING_SPACE" : 30,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835615.0943999998, 834913.5075000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 235,
+				"PARKING_SPACE" : 30,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837235.0328000002, 826637.3239999991 ]
+			},
+			"properties" : {
+				"OBJECTID" : 236,
+				"PARKING_SPACE" : 66,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 832635.3871999998, 840140.4258999992 ]
+			},
+			"properties" : {
+				"OBJECTID" : 237,
+				"PARKING_SPACE" : 138,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 832303.0248999996, 839224.3453000002 ]
+			},
+			"properties" : {
+				"OBJECTID" : 238,
+				"PARKING_SPACE" : 14,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845746.1036999999, 820012.3669000007 ]
+			},
+			"properties" : {
+				"OBJECTID" : 239,
+				"PARKING_SPACE" : 38,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844063.2921000002, 818591.5144999996 ]
+			},
+			"properties" : {
+				"OBJECTID" : 240,
+				"PARKING_SPACE" : 16,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835486.2346000001, 834866.2614999991 ]
+			},
+			"properties" : {
+				"OBJECTID" : 241,
+				"PARKING_SPACE" : 28,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835548.3540000003, 834883.0405999999 ]
+			},
+			"properties" : {
+				"OBJECTID" : 242,
+				"PARKING_SPACE" : 44,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837919.5877999999, 834682.5656000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 243,
+				"PARKING_SPACE" : 60,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837108.1211999999, 833473.4910000004 ]
+			},
+			"properties" : {
+				"OBJECTID" : 244,
+				"PARKING_SPACE" : 20,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 830824.7899000002, 839495.8107999992 ]
+			},
+			"properties" : {
+				"OBJECTID" : 245,
+				"PARKING_SPACE" : 28,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 831254.6845000004, 840130.0497999992 ]
+			},
+			"properties" : {
+				"OBJECTID" : 246,
+				"PARKING_SPACE" : 26,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821875.1098999996, 816215.2193 ]
+			},
+			"properties" : {
+				"OBJECTID" : 247,
+				"PARKING_SPACE" : 152,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835398.1897999998, 834650.2610999998 ]
+			},
+			"properties" : {
+				"OBJECTID" : 248,
+				"PARKING_SPACE" : 100,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833861.0018999996, 835068.3714000005 ]
+			},
+			"properties" : {
+				"OBJECTID" : 249,
+				"PARKING_SPACE" : 88,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835093.2110000001, 833445.7718000002 ]
+			},
+			"properties" : {
+				"OBJECTID" : 250,
+				"PARKING_SPACE" : 64,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836276.9642000003, 826025.0703999996 ]
+			},
+			"properties" : {
+				"OBJECTID" : 251,
+				"PARKING_SPACE" : 10,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836852.4469999997, 825766.5050000008 ]
+			},
+			"properties" : {
+				"OBJECTID" : 252,
+				"PARKING_SPACE" : 16,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841960.5745999999, 831196.4233999997 ]
+			},
+			"properties" : {
+				"OBJECTID" : 253,
+				"PARKING_SPACE" : 18,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841682.2161999997, 831158.1522000004 ]
+			},
+			"properties" : {
+				"OBJECTID" : 254,
+				"PARKING_SPACE" : 14,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821987.4331999999, 816155.5072000008 ]
+			},
+			"properties" : {
+				"OBJECTID" : 255,
+				"PARKING_SPACE" : 62,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829504.9408, 841272.5831000004 ]
+			},
+			"properties" : {
+				"OBJECTID" : 256,
+				"PARKING_SPACE" : 88,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820956.1179999998, 807591.6612 ]
+			},
+			"properties" : {
+				"OBJECTID" : 257,
+				"PARKING_SPACE" : 140,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821841.3005999997, 816204.8191 ]
+			},
+			"properties" : {
+				"OBJECTID" : 258,
+				"PARKING_SPACE" : 30,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837971.8068000004, 826414.0873000007 ]
+			},
+			"properties" : {
+				"OBJECTID" : 259,
+				"PARKING_SPACE" : 0,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837960.6774000004, 826351.5964000002 ]
+			},
+			"properties" : {
+				"OBJECTID" : 260,
+				"PARKING_SPACE" : 176,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845042.0579000004, 819966.6170000006 ]
+			},
+			"properties" : {
+				"OBJECTID" : 261,
+				"PARKING_SPACE" : 10,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845269.8196999999, 819714.6669999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 262,
+				"PARKING_SPACE" : 36,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 843039.9647000004, 832711.4483000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 263,
+				"PARKING_SPACE" : 30,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 843025.6242000004, 832707.2149 ]
+			},
+			"properties" : {
+				"OBJECTID" : 264,
+				"PARKING_SPACE" : 18,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837413.6240999997, 827319.8640999999 ]
+			},
+			"properties" : {
+				"OBJECTID" : 265,
+				"PARKING_SPACE" : 24,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 830567.7103000004, 840538.1349999998 ]
+			},
+			"properties" : {
+				"OBJECTID" : 266,
+				"PARKING_SPACE" : 14,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 830807.0898000002, 840212.5063000005 ]
+			},
+			"properties" : {
+				"OBJECTID" : 267,
+				"PARKING_SPACE" : 22,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 831475.9798999997, 840574.7700999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 268,
+				"PARKING_SPACE" : 50,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 831164.1237000003, 840001.1919999998 ]
+			},
+			"properties" : {
+				"OBJECTID" : 269,
+				"PARKING_SPACE" : 40,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 831130.1511000004, 839883.9350000005 ]
+			},
+			"properties" : {
+				"OBJECTID" : 270,
+				"PARKING_SPACE" : 30,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 828395.8886000002, 825599.4868999999 ]
+			},
+			"properties" : {
+				"OBJECTID" : 271,
+				"PARKING_SPACE" : 10,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829087.8975, 825723.5927000009 ]
+			},
+			"properties" : {
+				"OBJECTID" : 272,
+				"PARKING_SPACE" : 115,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 829555.6429000003, 824614.727 ]
+			},
+			"properties" : {
+				"OBJECTID" : 273,
+				"PARKING_SPACE" : 69,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844722.8870000001, 820646.8735000007 ]
+			},
+			"properties" : {
+				"OBJECTID" : 274,
+				"PARKING_SPACE" : 30,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844656.4836999997, 820297.3971999995 ]
+			},
+			"properties" : {
+				"OBJECTID" : 275,
+				"PARKING_SPACE" : 10,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845188.8529000003, 820021.1583999991 ]
+			},
+			"properties" : {
+				"OBJECTID" : 276,
+				"PARKING_SPACE" : 16,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845726.7181000002, 819578.6351999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 277,
+				"PARKING_SPACE" : 18,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 831422.1849999996, 840613.1899999995 ]
+			},
+			"properties" : {
+				"OBJECTID" : 278,
+				"PARKING_SPACE" : 42,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 831590.3498999998, 840440.5187999997 ]
+			},
+			"properties" : {
+				"OBJECTID" : 279,
+				"PARKING_SPACE" : 18,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 832508.9972000001, 839534.8375000004 ]
+			},
+			"properties" : {
+				"OBJECTID" : 280,
+				"PARKING_SPACE" : 10,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839198.1224999996, 832558.5409999993 ]
+			},
+			"properties" : {
+				"OBJECTID" : 281,
+				"PARKING_SPACE" : 8,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839594.1714000003, 832254.9056000002 ]
+			},
+			"properties" : {
+				"OBJECTID" : 282,
+				"PARKING_SPACE" : 36,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 841390.2325999998, 831268.0976999998 ]
+			},
+			"properties" : {
+				"OBJECTID" : 283,
+				"PARKING_SPACE" : 80,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 839569.5118000004, 827581.7423 ]
+			},
+			"properties" : {
+				"OBJECTID" : 284,
+				"PARKING_SPACE" : 22,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838109.2999, 826789.9539999999 ]
+			},
+			"properties" : {
+				"OBJECTID" : 285,
+				"PARKING_SPACE" : 8,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838236.4452, 826682.7848000005 ]
+			},
+			"properties" : {
+				"OBJECTID" : 286,
+				"PARKING_SPACE" : 6,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 838242.6204000004, 826559.5212999992 ]
+			},
+			"properties" : {
+				"OBJECTID" : 287,
+				"PARKING_SPACE" : 12,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 837160.7424999997, 826037.0905000009 ]
+			},
+			"properties" : {
+				"OBJECTID" : 288,
+				"PARKING_SPACE" : 18,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835718.0592999998, 826416.0077 ]
+			},
+			"properties" : {
+				"OBJECTID" : 289,
+				"PARKING_SPACE" : 6,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836161.8404999999, 826198.5725999996 ]
+			},
+			"properties" : {
+				"OBJECTID" : 290,
+				"PARKING_SPACE" : 10,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836785.7292999998, 825909.1708000004 ]
+			},
+			"properties" : {
+				"OBJECTID" : 291,
+				"PARKING_SPACE" : 14,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 836301.9376999997, 825453.6368000004 ]
+			},
+			"properties" : {
+				"OBJECTID" : 292,
+				"PARKING_SPACE" : 24,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835855.5383000001, 825153.3669000007 ]
+			},
+			"properties" : {
+				"OBJECTID" : 293,
+				"PARKING_SPACE" : 16,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 835701.5257000001, 824959.1607000008 ]
+			},
+			"properties" : {
+				"OBJECTID" : 294,
+				"PARKING_SPACE" : 114,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844676.5829999996, 817297.0066 ]
+			},
+			"properties" : {
+				"OBJECTID" : 295,
+				"PARKING_SPACE" : 4,
+				"OWNER" : "CEDD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 844952.3129000003, 817170.2432000004 ]
+			},
+			"properties" : {
+				"OBJECTID" : 296,
+				"PARKING_SPACE" : 12,
+				"OWNER" : "CEDD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845177.3104999997, 817074.9850999992 ]
+			},
+			"properties" : {
+				"OBJECTID" : 297,
+				"PARKING_SPACE" : 4,
+				"OWNER" : "CEDD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 845393.9210000001, 817033.0146999992 ]
+			},
+			"properties" : {
+				"OBJECTID" : 298,
+				"PARKING_SPACE" : 4,
+				"OWNER" : "CEDD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821183.7394000003, 834637.4936999995 ]
+			},
+			"properties" : {
+				"OBJECTID" : 299,
+				"PARKING_SPACE" : 92,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821074.5827000001, 834537.5490000006 ]
+			},
+			"properties" : {
+				"OBJECTID" : 300,
+				"PARKING_SPACE" : 56,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821109.2756000003, 834535.3263000008 ]
+			},
+			"properties" : {
+				"OBJECTID" : 301,
+				"PARKING_SPACE" : 80,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821086.7384000001, 834450.6337000001 ]
+			},
+			"properties" : {
+				"OBJECTID" : 302,
+				"PARKING_SPACE" : 46,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821142.5477999998, 834412.6921999995 ]
+			},
+			"properties" : {
+				"OBJECTID" : 303,
+				"PARKING_SPACE" : 108,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821031.5815000003, 834400.5285999998 ]
+			},
+			"properties" : {
+				"OBJECTID" : 304,
+				"PARKING_SPACE" : 128,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820986.8400999997, 834346.9094999991 ]
+			},
+			"properties" : {
+				"OBJECTID" : 305,
+				"PARKING_SPACE" : 56,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820910.5011, 834284.1322000008 ]
+			},
+			"properties" : {
+				"OBJECTID" : 306,
+				"PARKING_SPACE" : 206,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820888.3099999996, 834186.7232000008 ]
+			},
+			"properties" : {
+				"OBJECTID" : 307,
+				"PARKING_SPACE" : 90,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820695.3192999996, 834171.9035999998 ]
+			},
+			"properties" : {
+				"OBJECTID" : 308,
+				"PARKING_SPACE" : 134,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820309.5631999997, 834123.5639999993 ]
+			},
+			"properties" : {
+				"OBJECTID" : 309,
+				"PARKING_SPACE" : 66,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820527.3514, 834065.1549999993 ]
+			},
+			"properties" : {
+				"OBJECTID" : 310,
+				"PARKING_SPACE" : 106,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820671.3442000002, 834042.0766000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 311,
+				"PARKING_SPACE" : 16,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820779.3503, 833978.6978999991 ]
+			},
+			"properties" : {
+				"OBJECTID" : 312,
+				"PARKING_SPACE" : 26,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820684.9922000002, 833944.5855999999 ]
+			},
+			"properties" : {
+				"OBJECTID" : 313,
+				"PARKING_SPACE" : 54,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820642.7741999999, 834005.8675999995 ]
+			},
+			"properties" : {
+				"OBJECTID" : 314,
+				"PARKING_SPACE" : 32,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820897.8701999998, 833991.0165999997 ]
+			},
+			"properties" : {
+				"OBJECTID" : 315,
+				"PARKING_SPACE" : 50,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820465.8997, 833888.3805999998 ]
+			},
+			"properties" : {
+				"OBJECTID" : 316,
+				"PARKING_SPACE" : 32,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820091.7211999996, 833817.9666000009 ]
+			},
+			"properties" : {
+				"OBJECTID" : 317,
+				"PARKING_SPACE" : 20,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821334.9305999996, 834106.9370000008 ]
+			},
+			"properties" : {
+				"OBJECTID" : 318,
+				"PARKING_SPACE" : 18,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821395.7671999997, 834060.8986000009 ]
+			},
+			"properties" : {
+				"OBJECTID" : 319,
+				"PARKING_SPACE" : 40,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821707.5082, 834146.7771000005 ]
+			},
+			"properties" : {
+				"OBJECTID" : 320,
+				"PARKING_SPACE" : 60,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821801.3232000005, 834096.5800000001 ]
+			},
+			"properties" : {
+				"OBJECTID" : 321,
+				"PARKING_SPACE" : 162,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821758.3493999997, 833925.7404999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 322,
+				"PARKING_SPACE" : 28,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821413.0809000004, 833907.6765999999 ]
+			},
+			"properties" : {
+				"OBJECTID" : 323,
+				"PARKING_SPACE" : 70,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821400.2418, 833823.7316999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 324,
+				"PARKING_SPACE" : 168,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821360.4992000004, 833802.6841000002 ]
+			},
+			"properties" : {
+				"OBJECTID" : 325,
+				"PARKING_SPACE" : 78,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 819964.2322000004, 833807.8131000008 ]
+			},
+			"properties" : {
+				"OBJECTID" : 326,
+				"PARKING_SPACE" : 66,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 819956.8806999996, 833374.9996000007 ]
+			},
+			"properties" : {
+				"OBJECTID" : 327,
+				"PARKING_SPACE" : 20,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820632.8091000002, 833846.6625999995 ]
+			},
+			"properties" : {
+				"OBJECTID" : 328,
+				"PARKING_SPACE" : 30,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820684.5396999996, 833850.4263000004 ]
+			},
+			"properties" : {
+				"OBJECTID" : 329,
+				"PARKING_SPACE" : 18,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820740.1431999998, 833848.8115999997 ]
+			},
+			"properties" : {
+				"OBJECTID" : 330,
+				"PARKING_SPACE" : 48,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820811.2111999998, 833815.9805999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 331,
+				"PARKING_SPACE" : 80,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820909.4436999997, 833824.6056999993 ]
+			},
+			"properties" : {
+				"OBJECTID" : 332,
+				"PARKING_SPACE" : 45,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820941.6222000001, 833831.9364999998 ]
+			},
+			"properties" : {
+				"OBJECTID" : 333,
+				"PARKING_SPACE" : 14,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820980.4381999997, 833756.1486000009 ]
+			},
+			"properties" : {
+				"OBJECTID" : 334,
+				"PARKING_SPACE" : 6,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820519.1391000003, 833679.4724000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 335,
+				"PARKING_SPACE" : 42,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820625.6682000002, 833628.0165999997 ]
+			},
+			"properties" : {
+				"OBJECTID" : 336,
+				"PARKING_SPACE" : 52,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820740.0966999996, 833572.6629000008 ]
+			},
+			"properties" : {
+				"OBJECTID" : 337,
+				"PARKING_SPACE" : 128,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820836.8131999997, 833548.0255999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 338,
+				"PARKING_SPACE" : 71,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820917.0390999997, 833554.9617999997 ]
+			},
+			"properties" : {
+				"OBJECTID" : 339,
+				"PARKING_SPACE" : 40,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820918.3660000004, 833602.3692000005 ]
+			},
+			"properties" : {
+				"OBJECTID" : 340,
+				"PARKING_SPACE" : 72,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821019.8147999998, 833603.8112000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 341,
+				"PARKING_SPACE" : 122,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821066.4247000003, 833553.6305999998 ]
+			},
+			"properties" : {
+				"OBJECTID" : 342,
+				"PARKING_SPACE" : 5,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821101.7244999995, 833566.9782999996 ]
+			},
+			"properties" : {
+				"OBJECTID" : 343,
+				"PARKING_SPACE" : 50,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821052.3857000005, 833518.9668000005 ]
+			},
+			"properties" : {
+				"OBJECTID" : 344,
+				"PARKING_SPACE" : 17,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821087.8404999999, 833688.8966000006 ]
+			},
+			"properties" : {
+				"OBJECTID" : 345,
+				"PARKING_SPACE" : 90,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821015.4881999996, 833682.7696000002 ]
+			},
+			"properties" : {
+				"OBJECTID" : 346,
+				"PARKING_SPACE" : 16,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820984.8332000002, 833664.9015999995 ]
+			},
+			"properties" : {
+				"OBJECTID" : 347,
+				"PARKING_SPACE" : 24,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821195.0042000003, 833691.8691000007 ]
+			},
+			"properties" : {
+				"OBJECTID" : 348,
+				"PARKING_SPACE" : 60,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821292.8148999996, 833661.3115999997 ]
+			},
+			"properties" : {
+				"OBJECTID" : 349,
+				"PARKING_SPACE" : 50,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821454.2032000003, 833489.8915999997 ]
+			},
+			"properties" : {
+				"OBJECTID" : 350,
+				"PARKING_SPACE" : 84,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821461.5778999999, 833641.7202000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 351,
+				"PARKING_SPACE" : 76,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821411.4932000004, 833644.3077000007 ]
+			},
+			"properties" : {
+				"OBJECTID" : 352,
+				"PARKING_SPACE" : 54,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821143.4677999998, 833195.8549000006 ]
+			},
+			"properties" : {
+				"OBJECTID" : 353,
+				"PARKING_SPACE" : 156,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 815838.1988000004, 830536.0649999995 ]
+			},
+			"properties" : {
+				"OBJECTID" : 354,
+				"PARKING_SPACE" : 18,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 815892.9918, 830497.6339999996 ]
+			},
+			"properties" : {
+				"OBJECTID" : 355,
+				"PARKING_SPACE" : 321,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 815991.7517999997, 830331.7334000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 356,
+				"PARKING_SPACE" : 416,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 816059.7598000001, 829504.7434999999 ]
+			},
+			"properties" : {
+				"OBJECTID" : 357,
+				"PARKING_SPACE" : 58,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 815967.1705999998, 829378.6528999992 ]
+			},
+			"properties" : {
+				"OBJECTID" : 358,
+				"PARKING_SPACE" : 64,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 815714.2499000002, 829296.3618000001 ]
+			},
+			"properties" : {
+				"OBJECTID" : 359,
+				"PARKING_SPACE" : 48,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 815745.9548000004, 828751.1079999991 ]
+			},
+			"properties" : {
+				"OBJECTID" : 360,
+				"PARKING_SPACE" : 64,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 815596.1868000003, 828748.4020000007 ]
+			},
+			"properties" : {
+				"OBJECTID" : 361,
+				"PARKING_SPACE" : 48,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 815364.2127999999, 828650.4820000008 ]
+			},
+			"properties" : {
+				"OBJECTID" : 362,
+				"PARKING_SPACE" : 336,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 815349.9288999997, 828296.6758999992 ]
+			},
+			"properties" : {
+				"OBJECTID" : 363,
+				"PARKING_SPACE" : 272,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 814636.9918999998, 829952.4232000001 ]
+			},
+			"properties" : {
+				"OBJECTID" : 364,
+				"PARKING_SPACE" : 158,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 815428.4694999997, 827367.9529999997 ]
+			},
+			"properties" : {
+				"OBJECTID" : 365,
+				"PARKING_SPACE" : 178,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 815726.7549999999, 827404.1889999993 ]
+			},
+			"properties" : {
+				"OBJECTID" : 366,
+				"PARKING_SPACE" : 62,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 815192.0426000003, 827131.0333999991 ]
+			},
+			"properties" : {
+				"OBJECTID" : 367,
+				"PARKING_SPACE" : 162,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 815021.2538000001, 826786.352 ]
+			},
+			"properties" : {
+				"OBJECTID" : 368,
+				"PARKING_SPACE" : 122,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 814644.0751, 827164.1862000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 369,
+				"PARKING_SPACE" : 568,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 814342.9127000002, 826853.4486999996 ]
+			},
+			"properties" : {
+				"OBJECTID" : 370,
+				"PARKING_SPACE" : 232,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 814493.5790999997, 827296.5905000009 ]
+			},
+			"properties" : {
+				"OBJECTID" : 371,
+				"PARKING_SPACE" : 68,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 816032.1875, 827672.0211999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 372,
+				"PARKING_SPACE" : 24,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817954.9216999998, 836297.8768000007 ]
+			},
+			"properties" : {
+				"OBJECTID" : 373,
+				"PARKING_SPACE" : 186,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818487.9106999999, 836353.9886000007 ]
+			},
+			"properties" : {
+				"OBJECTID" : 374,
+				"PARKING_SPACE" : 65,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818462.4885999998, 836261.0430999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 375,
+				"PARKING_SPACE" : 120,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818022.6528000003, 835614.7404999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 376,
+				"PARKING_SPACE" : 34,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818448.6611000001, 835366.3376000002 ]
+			},
+			"properties" : {
+				"OBJECTID" : 377,
+				"PARKING_SPACE" : 156,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817987.3457000004, 835142.2295999993 ]
+			},
+			"properties" : {
+				"OBJECTID" : 378,
+				"PARKING_SPACE" : 106,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818609.7971999999, 835000.9086000007 ]
+			},
+			"properties" : {
+				"OBJECTID" : 379,
+				"PARKING_SPACE" : 44,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 814990.9005000005, 827144.7679999992 ]
+			},
+			"properties" : {
+				"OBJECTID" : 380,
+				"PARKING_SPACE" : 22,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 815525.6889000004, 827385.3170999996 ]
+			},
+			"properties" : {
+				"OBJECTID" : 381,
+				"PARKING_SPACE" : 30,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 815676.8737000003, 827122.8292999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 382,
+				"PARKING_SPACE" : 40,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 816102.4461000003, 829452.0957999993 ]
+			},
+			"properties" : {
+				"OBJECTID" : 383,
+				"PARKING_SPACE" : 40,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817331.6234999998, 825995.7565000001 ]
+			},
+			"properties" : {
+				"OBJECTID" : 384,
+				"PARKING_SPACE" : 54,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820063.0192999998, 824756.8806999996 ]
+			},
+			"properties" : {
+				"OBJECTID" : 385,
+				"PARKING_SPACE" : 26,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820019.7790999999, 824796.2588999998 ]
+			},
+			"properties" : {
+				"OBJECTID" : 386,
+				"PARKING_SPACE" : 62,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 816732.1708000004, 831596.2486000005 ]
+			},
+			"properties" : {
+				"OBJECTID" : 387,
+				"PARKING_SPACE" : 38,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 816672.0626999997, 831656.2968000006 ]
+			},
+			"properties" : {
+				"OBJECTID" : 388,
+				"PARKING_SPACE" : 146,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 816273.5076000001, 831036.057 ]
+			},
+			"properties" : {
+				"OBJECTID" : 389,
+				"PARKING_SPACE" : 134,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821676.3137999997, 833915.7777999993 ]
+			},
+			"properties" : {
+				"OBJECTID" : 390,
+				"PARKING_SPACE" : 46,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821647.6961000003, 834096.9330000002 ]
+			},
+			"properties" : {
+				"OBJECTID" : 391,
+				"PARKING_SPACE" : 38,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817810.2397999996, 832661.4561999999 ]
+			},
+			"properties" : {
+				"OBJECTID" : 392,
+				"PARKING_SPACE" : 13,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817836.0416000001, 832674.6316 ]
+			},
+			"properties" : {
+				"OBJECTID" : 393,
+				"PARKING_SPACE" : 41,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817860.1964999996, 832700.9824000001 ]
+			},
+			"properties" : {
+				"OBJECTID" : 394,
+				"PARKING_SPACE" : 70,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817758.0872999998, 832635.6544000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 395,
+				"PARKING_SPACE" : 26,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817715.8163000001, 832654.8684999999 ]
+			},
+			"properties" : {
+				"OBJECTID" : 396,
+				"PARKING_SPACE" : 6,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817666.7189999996, 832665.3278999999 ]
+			},
+			"properties" : {
+				"OBJECTID" : 397,
+				"PARKING_SPACE" : 340,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817810.0140000004, 832682.3332000002 ]
+			},
+			"properties" : {
+				"OBJECTID" : 398,
+				"PARKING_SPACE" : 26,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817801.4305999996, 832755.6890999991 ]
+			},
+			"properties" : {
+				"OBJECTID" : 399,
+				"PARKING_SPACE" : 48,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817694.4062999999, 832827.2464000005 ]
+			},
+			"properties" : {
+				"OBJECTID" : 400,
+				"PARKING_SPACE" : 78,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 815722.0498000002, 829924.0861000009 ]
+			},
+			"properties" : {
+				"OBJECTID" : 401,
+				"PARKING_SPACE" : 48,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817785.8194000004, 835848.3126999997 ]
+			},
+			"properties" : {
+				"OBJECTID" : 402,
+				"PARKING_SPACE" : 225,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 824724.1928000003, 832722.1973000001 ]
+			},
+			"properties" : {
+				"OBJECTID" : 403,
+				"PARKING_SPACE" : 310,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 824642.4956, 832919.4257999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 404,
+				"PARKING_SPACE" : 708,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818073, 836538.1426999997 ]
+			},
+			"properties" : {
+				"OBJECTID" : 405,
+				"PARKING_SPACE" : 170,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818063.2049000002, 836513.1294999998 ]
+			},
+			"properties" : {
+				"OBJECTID" : 406,
+				"PARKING_SPACE" : 226,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820495.5791999996, 834285.2444000002 ]
+			},
+			"properties" : {
+				"OBJECTID" : 407,
+				"PARKING_SPACE" : 68,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820586.5822999999, 834304.0576000009 ]
+			},
+			"properties" : {
+				"OBJECTID" : 408,
+				"PARKING_SPACE" : 64,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820629.8963000001, 834320.2456 ]
+			},
+			"properties" : {
+				"OBJECTID" : 409,
+				"PARKING_SPACE" : 60,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820636.6316, 834294.9329000004 ]
+			},
+			"properties" : {
+				"OBJECTID" : 410,
+				"PARKING_SPACE" : 58,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820646.9310999997, 834294.1574000008 ]
+			},
+			"properties" : {
+				"OBJECTID" : 411,
+				"PARKING_SPACE" : 54,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820654.9774000002, 834313.2853999995 ]
+			},
+			"properties" : {
+				"OBJECTID" : 412,
+				"PARKING_SPACE" : 28,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 819271.7644999996, 833667.0252 ]
+			},
+			"properties" : {
+				"OBJECTID" : 413,
+				"PARKING_SPACE" : 14,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 816149.8984000003, 831017.7964999992 ]
+			},
+			"properties" : {
+				"OBJECTID" : 414,
+				"PARKING_SPACE" : 216,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818623.6741000004, 835544.5767999999 ]
+			},
+			"properties" : {
+				"OBJECTID" : 415,
+				"PARKING_SPACE" : 54,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818426.3416999998, 835527.8553999998 ]
+			},
+			"properties" : {
+				"OBJECTID" : 416,
+				"PARKING_SPACE" : 70,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818162.3372, 834840.5304000005 ]
+			},
+			"properties" : {
+				"OBJECTID" : 417,
+				"PARKING_SPACE" : 175,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818349.3667000001, 834457.4079999998 ]
+			},
+			"properties" : {
+				"OBJECTID" : 418,
+				"PARKING_SPACE" : 54,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818701.5328000002, 834499.2177000009 ]
+			},
+			"properties" : {
+				"OBJECTID" : 419,
+				"PARKING_SPACE" : 388,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 819251.1183000002, 833730.2320000008 ]
+			},
+			"properties" : {
+				"OBJECTID" : 420,
+				"PARKING_SPACE" : 10,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818799.7309999997, 833445.8977000006 ]
+			},
+			"properties" : {
+				"OBJECTID" : 421,
+				"PARKING_SPACE" : 62,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 816452.4808, 830384.4843000006 ]
+			},
+			"properties" : {
+				"OBJECTID" : 422,
+				"PARKING_SPACE" : 40,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817307.7955, 832334.5330999997 ]
+			},
+			"properties" : {
+				"OBJECTID" : 423,
+				"PARKING_SPACE" : 300,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 814535.1130999997, 827296.5905000009 ]
+			},
+			"properties" : {
+				"OBJECTID" : 424,
+				"PARKING_SPACE" : 14,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 815609.6101000002, 828077.2722999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 425,
+				"PARKING_SPACE" : 24,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 815358.7663000003, 828472.8639000002 ]
+			},
+			"properties" : {
+				"OBJECTID" : 426,
+				"PARKING_SPACE" : 36,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 815941.2253999999, 829872.3379999995 ]
+			},
+			"properties" : {
+				"OBJECTID" : 427,
+				"PARKING_SPACE" : 108,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 815646.6238000002, 830223.4488999993 ]
+			},
+			"properties" : {
+				"OBJECTID" : 428,
+				"PARKING_SPACE" : 38,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 816220.3821, 830411.5007000007 ]
+			},
+			"properties" : {
+				"OBJECTID" : 429,
+				"PARKING_SPACE" : 62,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 814691.4862000002, 830108.7004000004 ]
+			},
+			"properties" : {
+				"OBJECTID" : 430,
+				"PARKING_SPACE" : 20,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817299.2112999996, 832254.9543999992 ]
+			},
+			"properties" : {
+				"OBJECTID" : 431,
+				"PARKING_SPACE" : 94,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 824966.4674000004, 841810.9586999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 432,
+				"PARKING_SPACE" : 36,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818405.3430000003, 836362.5429999996 ]
+			},
+			"properties" : {
+				"OBJECTID" : 433,
+				"PARKING_SPACE" : 42,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818474.7045, 836450.0439999998 ]
+			},
+			"properties" : {
+				"OBJECTID" : 434,
+				"PARKING_SPACE" : 46,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821563.3660000004, 833857.8291999996 ]
+			},
+			"properties" : {
+				"OBJECTID" : 435,
+				"PARKING_SPACE" : 40,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820723.0856999997, 835719.1063999999 ]
+			},
+			"properties" : {
+				"OBJECTID" : 436,
+				"PARKING_SPACE" : 40,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 815180.5060000001, 828321.8910000008 ]
+			},
+			"properties" : {
+				"OBJECTID" : 437,
+				"PARKING_SPACE" : 51,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 815879.9457, 827620.9736000001 ]
+			},
+			"properties" : {
+				"OBJECTID" : 438,
+				"PARKING_SPACE" : 14,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 815939.3676000005, 827369.7827000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 439,
+				"PARKING_SPACE" : 10,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817802.8573000003, 832865.4634000007 ]
+			},
+			"properties" : {
+				"OBJECTID" : 440,
+				"PARKING_SPACE" : 38,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 813057.1506000003, 825703.0759999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 441,
+				"PARKING_SPACE" : 82,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 819722.9095999999, 833889.4056000002 ]
+			},
+			"properties" : {
+				"OBJECTID" : 442,
+				"PARKING_SPACE" : 33,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818579.7336999997, 834171.7588 ]
+			},
+			"properties" : {
+				"OBJECTID" : 443,
+				"PARKING_SPACE" : 4,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820659.5647999998, 834304.3221000005 ]
+			},
+			"properties" : {
+				"OBJECTID" : 444,
+				"PARKING_SPACE" : 72,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 823109.9736000001, 834985.0327000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 445,
+				"PARKING_SPACE" : 50,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 815982.0948000001, 830668.7967000008 ]
+			},
+			"properties" : {
+				"OBJECTID" : 446,
+				"PARKING_SPACE" : 162,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818882.4627999999, 834647.2434 ]
+			},
+			"properties" : {
+				"OBJECTID" : 447,
+				"PARKING_SPACE" : 107,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820650.8668, 834303.2210000008 ]
+			},
+			"properties" : {
+				"OBJECTID" : 448,
+				"PARKING_SPACE" : 40,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818253.8216000004, 835559.8414999992 ]
+			},
+			"properties" : {
+				"OBJECTID" : 449,
+				"PARKING_SPACE" : 124,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 813994.3049999997, 826360.8739 ]
+			},
+			"properties" : {
+				"OBJECTID" : 450,
+				"PARKING_SPACE" : 24,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821676.7526000002, 834096.9848999996 ]
+			},
+			"properties" : {
+				"OBJECTID" : 451,
+				"PARKING_SPACE" : 80,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817739.5085000005, 832568.3281999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 452,
+				"PARKING_SPACE" : 20,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817728.7107999995, 832599.0949000008 ]
+			},
+			"properties" : {
+				"OBJECTID" : 453,
+				"PARKING_SPACE" : 20,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817771.5392000005, 832944.1588000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 454,
+				"PARKING_SPACE" : 14,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818543.0088, 836127.8897999991 ]
+			},
+			"properties" : {
+				"OBJECTID" : 455,
+				"PARKING_SPACE" : 18,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817552.8026000001, 835941.3574999999 ]
+			},
+			"properties" : {
+				"OBJECTID" : 456,
+				"PARKING_SPACE" : 16,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817718.2635000004, 835805.4473000001 ]
+			},
+			"properties" : {
+				"OBJECTID" : 457,
+				"PARKING_SPACE" : 20,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821502.1969999997, 833973.6088999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 458,
+				"PARKING_SPACE" : 96,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821026.7105999999, 834164.0939000007 ]
+			},
+			"properties" : {
+				"OBJECTID" : 459,
+				"PARKING_SPACE" : 50,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821736.9835000001, 834144.1127000004 ]
+			},
+			"properties" : {
+				"OBJECTID" : 460,
+				"PARKING_SPACE" : 34,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817680.7133999998, 832713.9114999995 ]
+			},
+			"properties" : {
+				"OBJECTID" : 461,
+				"PARKING_SPACE" : 40,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817952.9261999996, 833065.8883999996 ]
+			},
+			"properties" : {
+				"OBJECTID" : 462,
+				"PARKING_SPACE" : 34,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 815739.5494999997, 830733.6407999992 ]
+			},
+			"properties" : {
+				"OBJECTID" : 463,
+				"PARKING_SPACE" : 280,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817852.9188000001, 832601.9812000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 464,
+				"PARKING_SPACE" : 72,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820468.0739000002, 834132.0362 ]
+			},
+			"properties" : {
+				"OBJECTID" : 465,
+				"PARKING_SPACE" : 12,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818411.4424999999, 834117.8781000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 466,
+				"PARKING_SPACE" : 92,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817961.2605999997, 833094.8603000008 ]
+			},
+			"properties" : {
+				"OBJECTID" : 467,
+				"PARKING_SPACE" : 20,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 814528.1118000001, 826050.1919999998 ]
+			},
+			"properties" : {
+				"OBJECTID" : 468,
+				"PARKING_SPACE" : 20,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 814749.4277999997, 829545.3372000009 ]
+			},
+			"properties" : {
+				"OBJECTID" : 469,
+				"PARKING_SPACE" : 50,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821655.8645000001, 833820.5757999998 ]
+			},
+			"properties" : {
+				"OBJECTID" : 470,
+				"PARKING_SPACE" : 66,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 823946.3700999999, 837738.6963 ]
+			},
+			"properties" : {
+				"OBJECTID" : 471,
+				"PARKING_SPACE" : 60,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 823079.5823999997, 836685.2005000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 472,
+				"PARKING_SPACE" : 42,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 825352.6173, 839454.6918000001 ]
+			},
+			"properties" : {
+				"OBJECTID" : 473,
+				"PARKING_SPACE" : 72,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818500.0985000003, 834138.8576999996 ]
+			},
+			"properties" : {
+				"OBJECTID" : 474,
+				"PARKING_SPACE" : 66,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 814486.0816000002, 827318.0971000008 ]
+			},
+			"properties" : {
+				"OBJECTID" : 475,
+				"PARKING_SPACE" : 84,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 814394.4354999997, 826872.3311000001 ]
+			},
+			"properties" : {
+				"OBJECTID" : 476,
+				"PARKING_SPACE" : 24,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 814321.3596000001, 829669.1691999994 ]
+			},
+			"properties" : {
+				"OBJECTID" : 477,
+				"PARKING_SPACE" : 18,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 814793.9351000004, 830313.4563999996 ]
+			},
+			"properties" : {
+				"OBJECTID" : 478,
+				"PARKING_SPACE" : 66,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 815695.5619000001, 829812.9165000003 ]
+			},
+			"properties" : {
+				"OBJECTID" : 479,
+				"PARKING_SPACE" : 10,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818181.0661000004, 835686.3454999998 ]
+			},
+			"properties" : {
+				"OBJECTID" : 480,
+				"PARKING_SPACE" : 26,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817892.2335000001, 835336.3484000005 ]
+			},
+			"properties" : {
+				"OBJECTID" : 481,
+				"PARKING_SPACE" : 10,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817781.7976000002, 835805.2764999997 ]
+			},
+			"properties" : {
+				"OBJECTID" : 482,
+				"PARKING_SPACE" : 16,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817671.3616000004, 835857.9460000005 ]
+			},
+			"properties" : {
+				"OBJECTID" : 483,
+				"PARKING_SPACE" : 14,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818519.1699999999, 836078.8179000001 ]
+			},
+			"properties" : {
+				"OBJECTID" : 484,
+				"PARKING_SPACE" : 20,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 817929.6354, 836801.9965000004 ]
+			},
+			"properties" : {
+				"OBJECTID" : 485,
+				"PARKING_SPACE" : 8,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 821990.2289000005, 833919.9930000007 ]
+			},
+			"properties" : {
+				"OBJECTID" : 486,
+				"PARKING_SPACE" : 10,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818452.0236999998, 835827.6861000005 ]
+			},
+			"properties" : {
+				"OBJECTID" : 487,
+				"PARKING_SPACE" : 12,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 818294.3640999999, 834082.1592999995 ]
+			},
+			"properties" : {
+				"OBJECTID" : 488,
+				"PARKING_SPACE" : 92,
+				"OWNER" : "TD"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 820381.1054999996, 833617.8532999996 ]
+			},
+			"properties" : {
+				"OBJECTID" : 489,
+				"PARKING_SPACE" : 20,
+				"OWNER" : "TD"
+			}
+		}
+	]
+}

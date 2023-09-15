@@ -1,0 +1,84 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "STOP_PTRAM",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:2326"
+		}
+	},
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834420, 815416 ]
+			},
+			"properties" : {
+				"OBJECTID" : 1,
+				"STOP_ID" : 99801,
+				"LAST_UPDATE_DATE" : "20230304"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834327, 815284 ]
+			},
+			"properties" : {
+				"OBJECTID" : 2,
+				"STOP_ID" : 99802,
+				"LAST_UPDATE_DATE" : "20230304"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834279, 815173 ]
+			},
+			"properties" : {
+				"OBJECTID" : 3,
+				"STOP_ID" : 99803,
+				"LAST_UPDATE_DATE" : "20230304"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 834119, 814990 ]
+			},
+			"properties" : {
+				"OBJECTID" : 4,
+				"STOP_ID" : 99804,
+				"LAST_UPDATE_DATE" : "20230304"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833662, 814686 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5,
+				"STOP_ID" : 99805,
+				"LAST_UPDATE_DATE" : "20230304"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 833451, 814723 ]
+			},
+			"properties" : {
+				"OBJECTID" : 6,
+				"STOP_ID" : 99806,
+				"LAST_UPDATE_DATE" : "20230304"
+			}
+		}
+	]
+}
