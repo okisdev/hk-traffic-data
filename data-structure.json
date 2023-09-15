@@ -1,45 +1,64 @@
 [
     {
         "method": "Cable-Car",
-        "data": []
+        "data": [
+            "origin"
+        ]
     },
     {
         "method": "Bicycles",
-        "data": []
+        "data": [
+            "origin"
+        ]
     },
     {
         "method": "Ferries",
-        "data": []
+        "data": [
+            "origin"
+        ]
     },
     {
         "method": "Taxis",
-        "data": []
+        "data": [
+            "origin"
+        ]
     },
     {
         "method": "MTR",
         "data": [
             "stations",
-            "stops"
+            "stops",
+            "origin"
         ]
     },
     {
         "method": "Bus",
-        "data": []
+        "data": [
+            "origin"
+        ]
     },
     {
         "method": "Tram",
-        "data": []
+        "data": [
+            "origin"
+        ]
     },
     {
         "method": "Minibus",
-        "data": []
+        "data": [
+            "origin"
+        ]
     },
     {
         "method": "Peak-Tram",
-        "data": []
+        "data": [
+            "origin"
+        ]
     },
     {
         "method": "Airport-Express",
-        "data": []
+        "data": [
+            "origin"
+        ]
     }
 ]
