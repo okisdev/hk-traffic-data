@@ -1,0 +1,45 @@
+[
+    {
+        "method": "Cable-Car",
+        "data": []
+    },
+    {
+        "method": "Bicycles",
+        "data": []
+    },
+    {
+        "method": "Ferries",
+        "data": []
+    },
+    {
+        "method": "Taxis",
+        "data": []
+    },
+    {
+        "method": "MTR",
+        "data": [
+            "stations",
+            "stops"
+        ]
+    },
+    {
+        "method": "Bus",
+        "data": []
+    },
+    {
+        "method": "Tram",
+        "data": []
+    },
+    {
+        "method": "Minibus",
+        "data": []
+    },
+    {
+        "method": "Peak-Tram",
+        "data": []
+    },
+    {
+        "method": "Airport-Express",
+        "data": []
+    }
+]

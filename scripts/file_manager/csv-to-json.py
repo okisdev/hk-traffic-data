@@ -4,4 +4,4 @@ import pandas as pd
 df = pd.read_csv("data.csv")
 
 # Write the JSON file with indents
-df.to_json("data.json", orient="records", indent=2)
+df.to_json("data.json", orient="records", indent=4)
